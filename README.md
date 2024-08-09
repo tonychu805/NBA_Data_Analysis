@@ -37,6 +37,8 @@ By combining historical context with rigorous data analysis, this project seeks 
 
 ## Results
 
+While sports analytics provide valuable insights and tools for decision-making, intangible factors like passion, leadership, and interpersonal skills remain crucial. Analytics should be used to inform strategies and identify issues, but teams must also understand players on a personal level to balance organizational and player interests effectively.
+
 **1. Three-point shot evolution:**
 
   - The analysis shows that while three-point attempts have increased, the field goal percentage has plateaued at 34-36%, with decreasing standard deviation.
@@ -56,4 +58,3 @@ By combining historical context with rigorous data analysis, this project seeks 
   - The study presents a more objective approach to predicting MVP winners using historical performance data.
   - Combining Principal Component Analysis with Support Vector Machine achieved 95% accuracy in predicting MVPs from 2016 to 2022.
 
-The text emphasizes that while sports analytics provide valuable insights and tools for decision-making, intangible factors like passion, leadership, and interpersonal skills remain crucial. Analytics should be used to inform strategies and identify issues, but teams must also understand players on a personal level to effectively balance organizational and player interests.
