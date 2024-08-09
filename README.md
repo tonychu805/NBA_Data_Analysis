@@ -59,4 +59,6 @@ While sports analytics provide valuable insights and tools for decision-making, 
 
   - The study presents a more objective approach to predicting MVP winners using historical performance data.
   - Combining Principal Component Analysis with Support Vector Machine achieved 95% accuracy in predicting MVPs from 2016 to 2022.
+![Screenshot 2024-08-09 at 2 13 03 PM](https://github.com/user-attachments/assets/5d494a53-b16c-4078-8b4d-aa9eb89a2b30)
+
 
