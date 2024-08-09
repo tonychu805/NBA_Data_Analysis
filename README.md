@@ -42,7 +42,8 @@ While sports analytics provide valuable insights and tools for decision-making, 
 **1. Three-point shot evolution:**
 
   - The analysis shows that while three-point attempts have increased, the field goal percentage has plateaued at 34-36%, with decreasing standard deviation.
-    ![image](https://github.com/user-attachments/assets/7c7d36bc-b850-410b-be7e-fd213042d384)
+
+![image](https://github.com/user-attachments/assets/7c7d36bc-b850-410b-be7e-fd213042d384)
   - This suggests players are improving at three-point shooting but may be approaching a biological limit, similar to Stephen Jay Gould's concept of an "invisible right wall" in sports performance.
   - Three-point shooting has become a legitimate tactic, valued by teams and rewarded in player contracts.
 
