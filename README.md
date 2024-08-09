@@ -4,7 +4,7 @@
 
 This project analyzes the evolution of the NBA through the lens of data analytics, exploring three key areas:
 
-1. Three-point shot evolution: Examining the transformation of the game since the introduction of the three-point line in the 1979-1980 season. We analyze how shooting patterns and strategies have changed over time, potentially altering team dynamics and scoring trends.
+1. *Three-point shot evolution:* Examining the transformation of the game since the introduction of the three-point line in the 1979-1980 season. We analyze how shooting patterns and strategies have changed over time, potentially altering team dynamics and scoring trends.
 2. Redefining player positions: Challenging traditional position classifications by using statistical analysis to create new, data-driven categories. This approach aims to reflect the modern, more versatile style of play and the emergence of "positionless" basketball.
 3. Characteristics of elite players: Investigating the factors that contribute to individual player success, with a focus on MVP winners. We aim to identify patterns and develop predictive models for exceptional performance.
 
