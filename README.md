@@ -36,3 +36,24 @@ By combining historical context with rigorous data analysis, this project seeks 
 - 2020 – June – NBA Shots (1997 – 2019): https://data.world/sportsvizsunday/june-2020-nba-shots-1997-2019
 
 ## Results
+
+**1. Three-point shot evolution:**
+
+  - The analysis shows that while three-point attempts have increased, the field goal percentage has plateaued at 34-36%, with decreasing standard deviation.
+  - This suggests players are improving at three-point shooting but may be approaching a biological limit, similar to Stephen Jay Gould's concept of an "invisible right wall" in sports performance.
+  - Three-point shooting has become a legitimate tactic, valued by teams and rewarded in player contracts.
+
+
+**2. Player position redefinition:**
+
+  - Traditional player positions no longer accurately represent on-court roles.
+  - Machine learning techniques (K-Means and Hierarchical clustering) can identify new player categories based on in-game statistics. These new categorizations can help teams in scouting and roster formation.
+  - The analysis confirms the importance of having a franchise-level player, surrounded by complementary roles that have evolved over time.
+
+
+**3. MVP prediction:**
+
+  - The study presents a more objective approach to predicting MVP winners using historical performance data.
+  - Combining Principal Component Analysis with Support Vector Machine achieved 95% accuracy in predicting MVPs from 2016 to 2022.
+
+The text emphasizes that while sports analytics provide valuable insights and tools for decision-making, intangible factors like passion, leadership, and interpersonal skills remain crucial. Analytics should be used to inform strategies and identify issues, but teams must also understand players on a personal level to effectively balance organizational and player interests.
