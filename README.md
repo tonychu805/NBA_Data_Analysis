@@ -17,11 +17,11 @@ This project utilizes multiple datasets to analyze the NBA's evolution, focusing
   - Examines average three-point attempts, field goal percentages, and elite shooter ratios.
   - Investigates correlations between shot distance, field goal percentage, and points per shot.
 
-3. **Player classification:**
-  - Uses unsupervised learning techniques (K-Means and Hierarchical clustering) to redefine player positions based on in-game statistics.
+2. **Player classification:**
+  - Unsupervised learning techniques (K-Means and Hierarchical clustering) are used to redefine player positions based on in-game statistics.
   - Aims to create data-driven categories that reflect modern, versatile playing styles.
 
-4. **MVP prediction:**
+3. **MVP prediction:**
   - Employs supervised learning models (Support Vector Machine, Decision Tree, and Random Forest) to predict MVP winners.
   - Uses data from 1980-2015 for training and 2016-2022 for testing.
   - Explores the impact of multicollinearity and dimensionality reduction on model performance.
